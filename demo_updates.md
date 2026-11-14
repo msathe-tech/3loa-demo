@@ -5,3 +5,4 @@ Updates below were executed by Vertex AI Agent Engine (`AGENT_IDENTITY`) egressi
 | Timestamp (UTC) | GitHub 3LO User | HITL Approver | Update Text | Egress Governance | Agent SPIFFE Identity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-14T00:11:16Z` | `@msathe-tech` | `operator-console` | Release check passed | `Managed Agent Gateway` | `spiffe://agents.global.org-454101079359.system.id.goog/resources/aiplatform/projects/633964655923/locations/us-central1/reasoningEngines/3773745183242321920` |
+| `2026-11-14T00:14:21Z` | `@msathe-tech` | `operator-console` | Hello from Zero-Trust ADK Agent | `Managed Agent Gateway` | `spiffe://agents.global.org-454101079359.system.id.goog/resources/aiplatform/projects/633964655923/locations/us-central1/reasoningEngines/3773745183242321920` |
